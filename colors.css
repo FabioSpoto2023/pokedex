@@ -1,0 +1,39 @@
+.green {
+    background-image: linear-gradient(to bottom right, #c3ec52, #0ba29d);
+}
+
+.red {
+    background-image: linear-gradient(to bottom right, #F5515F, #A1051D);
+}
+
+.blue {
+    background-image: linear-gradient(to bottom right, #0FF0B3, #036ED9);
+}
+
+.yellow {
+    background-image: linear-gradient(to bottom right, #fad961, #ec5904);
+}
+
+.white {
+    background-image: linear-gradient(to bottom right, #B5B5B5, #EEEEEE);
+}
+
+.brown {
+    background-image: linear-gradient(to bottom right, #c8a684, #5c341b);
+}
+
+.purple {
+    background-image: linear-gradient(to bottom right, #ff3cab, #774a9f);
+}
+
+.pink {
+    background-image: linear-gradient(to bottom right, #ffa7e6, #ea6362);
+}
+
+.gray {
+    background-image: linear-gradient(to bottom right, #cacaca, #313436);
+}
+
+.black {
+    background-image: linear-gradient(to bottom right, #656d77, #2f363f);
+}

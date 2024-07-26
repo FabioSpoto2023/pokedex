@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+
+    <link rel="stylesheet" href="colors.css">
+    <link rel="stylesheet" href="loader.css">
+    <link rel="stylesheet" href="style.css">
+
+    <title>Pokedex</title>
+</head>
+
+<body onload="init()">
+    <nav>
+        <img class="logo" src="images/logo.png" alt="">
+        <h1 id="title"></h1>
+        <img class="menu" src="images/menu-sharp.svg" alt="">
+    </nav>
+    <input id="search" type="text" placeholder="Search">
+    <div id="dialog" style="display: none;"></div>
+    <div id="container"></div>
+    <footer>Pokedex</footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
